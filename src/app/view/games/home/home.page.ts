@@ -49,7 +49,7 @@ export class HomePage {
   }
 
   irParaCadastrar() {
-    this.router.navigate(['/cadastro']);
+    this.router.navigate(['/cadastrar']);
   }
 
   editarJogo(jogo: Jogo) {
